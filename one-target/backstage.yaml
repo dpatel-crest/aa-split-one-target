@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: one-target
+  title: one-target
+  description: Component for one-target
+  annotations:
+    github.com/project-slug: one-target
+  tags: 
+    - nodejs
+spec:
+  type: service
+  owner: unknown
+  lifecycle: experimental
