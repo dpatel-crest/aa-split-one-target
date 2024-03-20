@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: one-target
-  title: one-target
-  description: Component for one-target
+  name: one-target-inside
+  title: one-target-inside
+  description: Component for one-target-inside
   annotations:
-    github.com/project-slug: one-target
+    github.com/project-slug: one-target-inside
   tags: 
     - nodejs
 spec:
